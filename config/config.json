@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
-    "password": "123456",
-    "database": "jamesapi",
-    "host": "127.0.0.1",
+    "username": "c9phbie8qkz1zcyr",
+    "password": "unu81x2bewjsdrxq",
+    "database": "cex2oybj6955qad1",
+    "host": "qz8si2yulh3i7gl3.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
-    "host": "127.0.0.1",
+    "username": "c9phbie8qkz1zcyr",
+    "password": "unu81x2bewjsdrxq",
+    "database": "cex2oybj6955qad1",
+    "host": "qz8si2yulh3i7gl3.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "c9phbie8qkz1zcyr",
+    "password": "unu81x2bewjsdrxq",
+    "database": "cex2oybj6955qad1",
+    "host": "qz8si2yulh3i7gl3.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
