@@ -2,57 +2,266 @@
     "product":[
         {
             "id":1,
-            "Name":"",
-            "Desc":"",
-            "Image":"",
-            "Price":0,
+            "Name":"ZX 4000 4D",
+            "Desc":"signature adidas Primeknit wraps the foot, overlaid by black suede panels, for a mixed contemporary look.",
+            "Image":"https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/b85fa92d74154c599f26aac000fe25ff_9366/ZX_4000_4D_Shoes_Black_EF9625_01_standard.jpg",
+            "Price":14000,
             "Band":"Adidas",
-            "Status":0
+            "Instock":5
         },
         {
             "id":1,
-            "Name":"",
-            "Desc":"",
-            "Image":"",
-            "Price":0,
+            "Name":"NMD_R1 SPECTOO",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/2dd9b75703c04f5989f4acb601261941_9366/NMD_R1_Spectoo_Shoes_Grey_FZ3203_01_standard.jpg",
+            "Price":6000,
             "Band":"Adidas",
-            "Status":0
+            "Instock":0
         },
         {
             "id":1,
-            "Name":"",
-            "Desc":"",
-            "Image":"",
-            "Price":0,
+            "Name":"NMD_R1 Shoes",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/459ff194c35e45ea91b1a8ba00fc4876_9366/NMD_R1_Shoes_Black_B42200_01_standard.jpg",
+            "Price":12000,
             "Band":"Adidas",
-            "Status":0
+            "Instock":3
         },
         {
             "id":1,
-            "Name":"",
-            "Desc":"",
-            "Image":"",
-            "Price":0,
+            "Name":"NMD_R1 SPECTOO",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/68f1915537c745eeae41ac6801166341_9366/NMD_R1_Spectoo_Shoes_Black_FX6819_01_standard.jpg",
+            "Price":10000,
             "Band":"Adidas",
-            "Status":0
+            "Instock":0
         },
         {
             "id":1,
-            "Name":"",
-            "Desc":"",
-            "Image":"",
-            "Price":0,
+            "Name":"NMD_R1 SPECTOO",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/fb9ed40f68fe4f0cba96ac7200d2f9bb_9366/NMD_R1_Spectoo_Shoes_White_FX6818_01_standard.jpg",
+            "Price":16000,
             "Band":"Adidas",
-            "Status":0
+            "Instock":0
         },
         {
             "id":1,
-            "Name":"",
-            "Desc":"",
-            "Image":"",
-            "Price":0,
-            "Band":"Nike",
-            "Status":0
+            "Name":"NMD_R1 Shoes",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/ed0d1b3dbd4345c0baebacae00ac9358_9366/NMD_R1_Shoes_White_FY3666_01_standard.jpg",
+            "Price":21000,
+            "Band":"Adidas",
+            "Instock":0
+        },
+        {
+            "id":1,
+            "Name":"NMD_R1 Shoes",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/f902c214575344edb4e5ac6f00196635_9366/NMD_R1_Shoes_Black_GV7183_01_standard.jpg",
+            "Price":10000,
+            "Band":"Adidas",
+            "Instock":0
+        },
+        {
+            "id":1,
+            "Name":"NMD_R1 PRIMEKNIT",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/3ae212fd39474d459222ac6b011d8a42_9366/NMD_R1_Primeknit_Shoes_Grey_G57939_01_standard.jpg",
+            "Price":18000,
+            "Band":"Adidas",
+            "Instock":10
         }
+        ,
+        {
+            "id":1,
+            "Name":"NMD_R1 SPECTOO",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/fb9ed40f68fe4f0cba96ac7200d2f9bb_9366/NMD_R1_Spectoo_Shoes_White_FX6818_01_standard.jpg",
+            "Price":16000,
+            "Band":"Adidas",
+            "Instock":0
+        },
+        {
+            "id":1,
+            "Name":"NMD_R1 Shoes",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/ed0d1b3dbd4345c0baebacae00ac9358_9366/NMD_R1_Shoes_White_FY3666_01_standard.jpg",
+            "Price":21000,
+            "Band":"Adidas",
+            "Instock":0
+        },
+        {
+            "id":1,
+            "Name":"NMD_R1 Shoes",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/f902c214575344edb4e5ac6f00196635_9366/NMD_R1_Shoes_Black_GV7183_01_standard.jpg",
+            "Price":10000,
+            "Band":"Adidas",
+            "Instock":0
+        },
+        {
+            "id":1,
+            "Name":"NMD_R1 Shoes",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/459ff194c35e45ea91b1a8ba00fc4876_9366/NMD_R1_Shoes_Black_B42200_01_standard.jpg",
+            "Price":12000,
+            "Band":"Adidas",
+            "Instock":3
+        },
+        {
+            "id":1,
+            "Name":"NMD_R1 SPECTOO",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/68f1915537c745eeae41ac6801166341_9366/NMD_R1_Spectoo_Shoes_Black_FX6819_01_standard.jpg",
+            "Price":10000,
+            "Band":"Adidas",
+            "Instock":0
+        },
+        {
+            "id":1,
+            "Name":"NMD_R1 SPECTOO",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/fb9ed40f68fe4f0cba96ac7200d2f9bb_9366/NMD_R1_Spectoo_Shoes_White_FX6818_01_standard.jpg",
+            "Price":16000,
+            "Band":"Adidas",
+            "Instock":0
+        },
+        {
+            "id":1,
+            "Name":"NMD_R1 Shoes",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/ed0d1b3dbd4345c0baebacae00ac9358_9366/NMD_R1_Shoes_White_FY3666_01_standard.jpg",
+            "Price":21000,
+            "Band":"Adidas",
+            "Instock":0
+        },
+        {
+            "id":1,
+            "Name":"Air Jordan 1 Zoom Air Comfort",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/3093baab-fd21-4de2-9731-084c013942ff/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B8%B9%E0%B9%89-air-jordan-1-zoom-air-comfort-DMnp24.png",
+            "Price":5200,
+            "Band":"Nike",
+            "Instock":2
+        },
+        {
+            "id":1,
+            "Name":"Jordan MA2",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ac5292f2-5e41-45c9-ad4e-1f8d8206a2db/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2-jordan-ma2-tk4L5f.png",
+            "Price":3400,
+            "Band":"Nike",
+            "Instock":1
+        },
+        {
+            "id":1,
+            "Name":"Jordan 1 Mid SE",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/4f0a2ca1-57fb-4194-becb-46ce1a886534/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2-jordan-1-mid-se-742bxk.png",
+            "Price":2400,
+            "Band":"Nike",
+            "Instock":0
+        },
+        {
+            "id":1,
+            "Name":"Jordan 1 Zoom Air Comfort",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/3093baab-fd21-4de2-9731-084c013942ff/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B8%B9%E0%B9%89-air-jordan-1-zoom-air-comfort-DMnp24.png",
+            "Price":5200,
+            "Band":"Nike",
+            "Instock":7
+        },
+        {
+            "id":1,
+            "Name":"Air Jordan 1 Centre Court",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/ad7249de-f71f-4678-9e82-e9cd611ac6bf/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2-air-jordan-1-centre-court-GdTMkz.png",
+            "Price":5000,
+            "Band":"Nike",
+            "Instock":0
+        },
+        {
+            "id":1,
+            "Name":"Air Jordan 1 Mid",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0aadc04a-a4a3-4b7d-8859-1a9e56bd4362/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2-air-jordan-1-mid-BpARGV.png",
+            "Price":10000,
+            "Band":"Nike",
+            "Instock":0
+        },
+        {
+            "id":1,
+            "Name":"Air Jordan 1 Zoom Air Comfort",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/3093baab-fd21-4de2-9731-084c013942ff/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B8%B9%E0%B9%89-air-jordan-1-zoom-air-comfort-DMnp24.png",
+            "Price":5200,
+            "Band":"Nike",
+            "Instock":2
+        },
+        {
+            "id":1,
+            "Name":"Jordan MA2",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ac5292f2-5e41-45c9-ad4e-1f8d8206a2db/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2-jordan-ma2-tk4L5f.png",
+            "Price":3400,
+            "Band":"Nike",
+            "Instock":1
+        },
+        {
+            "id":1,
+            "Name":"Jordan 1 Mid SE",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/4f0a2ca1-57fb-4194-becb-46ce1a886534/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2-jordan-1-mid-se-742bxk.png",
+            "Price":2400,
+            "Band":"Nike",
+            "Instock":2
+        },
+        {
+            "id":1,
+            "Name":"Jordan 1 Zoom Air Comfort",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/3093baab-fd21-4de2-9731-084c013942ff/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B8%B9%E0%B9%89-air-jordan-1-zoom-air-comfort-DMnp24.png",
+            "Price":5200,
+            "Band":"Nike",
+            "Instock":7
+        },
+        {
+            "id":1,
+            "Name":"Air Jordan 1 Centre Court",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/ad7249de-f71f-4678-9e82-e9cd611ac6bf/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2-air-jordan-1-centre-court-GdTMkz.png",
+            "Price":5000,
+            "Band":"Nike",
+            "Instock":0
+        },
+        {
+            "id":1,
+            "Name":"Jordan MA2",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ac5292f2-5e41-45c9-ad4e-1f8d8206a2db/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2-jordan-ma2-tk4L5f.png",
+            "Price":3400,
+            "Band":"Nike",
+            "Instock":1
+        },
+        {
+            "id":1,
+            "Name":"Jordan 1 Mid SE",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/4f0a2ca1-57fb-4194-becb-46ce1a886534/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2-jordan-1-mid-se-742bxk.png",
+            "Price":2400,
+            "Band":"Nike",
+            "Instock":2
+        },
+        {
+            "id":1,
+            "Name":"Jordan 1 Zoom Air Comfort",
+            "Desc":"MODERN, COLLAPSIBLE SHOES BY CRAIG GREEN.",
+            "Image":"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/3093baab-fd21-4de2-9731-084c013942ff/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B8%B9%E0%B9%89-air-jordan-1-zoom-air-comfort-DMnp24.png",
+            "Price":5200,
+            "Band":"Nike",
+            "Instock":7
+        }
+        
     ]
 }
