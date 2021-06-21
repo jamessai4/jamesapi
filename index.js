@@ -4,5 +4,5 @@ const app=require('./app')
 const port=process.env.PORT
 const server=http.createServer(app)
 server.listen(3003,function(){
-    console.log("server running rup Port " + 3003)
+    console.log("server running rup Port " + 3000)
 })
