@@ -4,7 +4,7 @@ const jwt = require('jsonwebtoken')
 
 const getProduct = async(req,res) =>{
     const band = req.params.band;
-        var productAll = await product.product.find(x=>x.Band == band)
+        var productAll = await product.product.filter(x=>x.Band == band)
         console.log(productAll)
         if(productAll == undefined){
             res.status(404).json({message:"Not Found"})
