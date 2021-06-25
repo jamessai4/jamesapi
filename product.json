@@ -143,7 +143,7 @@
             "Image":"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/3093baab-fd21-4de2-9731-084c013942ff/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B8%B9%E0%B9%89-air-jordan-1-zoom-air-comfort-DMnp24.png",
             "Price":5200,
             "Band":"Nike",
-            "Instock":2
+            "Instock":0
         },
         {
             "id":1,
@@ -161,7 +161,7 @@
             "Image":"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/4f0a2ca1-57fb-4194-becb-46ce1a886534/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2-jordan-1-mid-se-742bxk.png",
             "Price":2400,
             "Band":"Nike",
-            "Instock":0
+            "Instock":10
         },
         {
             "id":1,
